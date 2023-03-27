@@ -17,7 +17,7 @@ app.use('/api', productsRoute)
 
 //Rutassto
 app.get("/", (req, res) => {
-  res.send('Bienvenido a la Api')
+  res.send('Bienvenido a la Api equipo 2 fullstack')
 })
 
 //conexion mongodb
